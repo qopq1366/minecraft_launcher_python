@@ -1,28 +1,7 @@
-my_github = https://github.com/qopq1366
-my_reddit = https://www.reddit.com/user/Trimping001/
-my_x = https://x.com/qopq1366
-repositories = https://github.com/qopq1366/minecraft_launcher_python
-
-minecraft_directory='.minecraftversions'
-launcher = python
-
-exe = EXE(
-    pyz,
-    a.scripts,
-    a.binaries,
-    a.datas,
-    [],
-    name='Launcher',
-    debug=False,
-    bootloader_ignore_signals=False,
-    strip=False,
-    upx=True,
-    upx_exclude=[],
-    runtime_tmpdir=None,
-    console=True,
-    disable_windowed_traceback=False,
-    argv_emulation=False,
-    target_arch=None,
-    codesign_identity=None,
-    entitlements_file=None,
-)
+# Minecraft Launcher
+Minecraft Launcher Python
+# Socurce code
+Socurce code to GitHub
+And GitLab
+# .exe and .py
+Download .py and .exe
